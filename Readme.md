@@ -1,5 +1,8 @@
 # Examen 1ª Evaluación (2ª Parte) - Control de Versiones
 
+Apartado 1: 
+
+Josué Rodríguez Bugarín
 ---
 
 ## Instrucciones
@@ -10,6 +13,7 @@
 ### Apartado 1
 
 - Clona este repositorio.
+![clone.png](imagenes/clone.png)
 - Modifica este Readme, poniendo tu nombre completo, realiza un `commit` con el mensaje *"Apartado 1"* y un `push`.
 
 Pregunta 
