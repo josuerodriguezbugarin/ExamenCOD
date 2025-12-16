@@ -58,3 +58,5 @@ Pregunta
 ![apartado3.png](imagenes/apartado3.png)
 ![aparece.png](imagenes/aparece.png)
 - y ahora tengo que hacer el pull y despues del pull hacer un fetch y merge y se aplicaran los cambios
+![final.png](imagenes/final.png)
+- y me aparecen los cambios que hice en github en pycharm.
