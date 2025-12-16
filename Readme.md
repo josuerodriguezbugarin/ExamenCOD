@@ -28,7 +28,14 @@ Pregunta
 ### Apartado 2
 
 - Realiza una modificación en el código en la web de tu repositorio en GitHub
+![voy a mi readme.png](imagenes/voy%20a%20mi%20readme.png) Primero voy a mi read.me para editarlo.
+![ledoyallapiz.png](imagenes/ledoyallapiz.png) 
+- le doy a editar fichero.
+![aqui use el lapiz.png](imagenes/aqui%20use%20el%20lapiz.png) 
+- y le hago un breve cambio y le doy a commit changes y le pongo de titulo al commit "Apartado 2 edit"
 - Utiliza fetch para descargar los cambios realizados en tu repositorio.
+- Respuesta: para el fetch me voy en pycharm a git > fetch y despues usar merge
+![merge.png](imagenes/merge.png)
 
 Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
