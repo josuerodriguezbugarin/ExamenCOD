@@ -1,6 +1,6 @@
 # Examen 1ª Evaluación (2ª Parte) - Control de Versiones
 
-Apartado 1: 
+Apartado 1: (Aqui use el lapiz)
 
 Josué Rodríguez Bugarín
 ---
