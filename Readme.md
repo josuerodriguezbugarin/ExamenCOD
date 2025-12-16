@@ -40,6 +40,11 @@ Pregunta
 Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
+# Respuesta
+![fetch.png](imagenes/fetch.png)
+Al hacer cambios en github en el read.me estoy haciendo un commit y para que los cambios se me apliquen en pycharm tengo que usar el fetch y el merge para que se me apliquen.
+
+
 ### Apartado 3
 
 - Realiza otro cambio desde la web de tu repositorio en GitHub.
