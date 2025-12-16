@@ -19,8 +19,11 @@ Josué Rodríguez Bugarín
 - Aqui pongo mi nombre en el read.me
 ![commit.png](imagenes/commit.png)
 - y hago un commit que pone "Apartado 1" y push para subirlo a github.
+
 Pregunta 
 - ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.
+![remote.png](imagenes/remote.png)
+- Tendria que crear mi propio repositorio y poner el enlace del repositorio que eh creado para asi ponerlo en mi pycharm y subir mis propios commits
 
 ### Apartado 2
 
