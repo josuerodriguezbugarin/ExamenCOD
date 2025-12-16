@@ -53,3 +53,8 @@ Al hacer cambios en github en el read.me estoy haciendo un commit y para que los
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
+![addfile.png](imagenes/addfile.png)
+- en github añado un nuevo fichero que le llamara "apartado 3"
+![apartado3.png](imagenes/apartado3.png)
+![aparece.png](imagenes/aparece.png)
+- y ahora tengo que hacer el pull y despues del pull hacer un fetch y merge y se aplicaran los cambios
