@@ -15,7 +15,10 @@ Josué Rodríguez Bugarín
 - Clona este repositorio.
 ![clone.png](imagenes/clone.png)
 - Modifica este Readme, poniendo tu nombre completo, realiza un `commit` con el mensaje *"Apartado 1"* y un `push`.
-
+![nombre.png](imagenes/nombre.png)
+- Aqui pongo mi nombre en el read.me
+![commit.png](imagenes/commit.png)
+- y hago un commit que pone "Apartado 1" y push para subirlo a github.
 Pregunta 
 - ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.
 
